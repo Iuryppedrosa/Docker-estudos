@@ -1,1 +1,1 @@
-[imamge](https://github.com/Iuryppedrosa/Docker-estudos/blob/main/Captura%20de%20Tela%202024-05-20%20às%2009.26.58.png?raw=true)
+![image](https://github.com/Iuryppedrosa/Docker-estudos/blob/main/Captura%20de%20Tela%202024-05-20%20às%2009.26.58.png?raw=true![image](https://github.com/Iuryppedrosa/Docker-estudos/assets/89420889/9f9a60fc-e2b4-4e77-8fc9-38a3a5618315))
